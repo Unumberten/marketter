@@ -7,9 +7,9 @@ interface NavBtnI {
 }
 
 const Btns = [
-  { value: 'Female', route: 'female' },
-  { value: 'Male', route: 'male' },
-  { value: 'Kids', route: 'kids' },
+  { value: 'Vegatables', route: 'female' },
+  { value: 'Fruits', route: 'male' },
+  { value: 'Chickens', route: 'kids' },
   { value: 'All Products', route: 'all' },
 ];
 
