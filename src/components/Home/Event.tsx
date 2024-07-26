@@ -43,7 +43,7 @@ export default function Event() {
             <div className='details'>
               <p>Hay Baels</p>
               <div className='price'>
-                <span>R5o.00</span>
+                <span>R50.00</span>
                 <span>R60.00</span>
               </div>
             </div>
