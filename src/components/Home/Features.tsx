@@ -8,21 +8,21 @@ export default function Features() {
   return (
     <section className='features-section'>
       <div className='title'>
-        <h1>Unique and Authentic Vintage Designer Jewellery</h1>
+        <h1>The Best Produce and Crops around Locally Sourced and grown</h1>
       </div>
       <div className='content'>
         <div className='left'>
           <div className='feature-background'>Different from others</div>
           <div>
-            <h3>Using Good Quality Materials</h3>
+            <h3>Using organic Materials</h3>
             <p>Lorem ipsum dolor sit amt, consectetus adipiscing elit.</p>
           </div>
           <div>
-            <h3>100% Handmade Products</h3>
+            <h3>100% local Products</h3>
             <p>Lorem ipsum dolor sit amt, consectetus adipiscing elit.</p>
           </div>
           <div>
-            <h3>Modern Fashion Design</h3>
+            <h3>Modern Farming techniques</h3>
             <p>Lorem ipsum dolor sit amt, consectetus adipiscing elit.</p>
           </div>
           <div>
