@@ -10,7 +10,7 @@ function Footer() {
         <div className='logo'>
           <Image alt='Dine Market' src={LogoImage} width={180} height={30} />
           <p>
-            Small, artisan label that offers a thoughtfully curated collection
+            Small, farming label that offers a thoughtfully curated collection
             of high quality everyday essentials made.
           </p>
           <div className='icon-container'>
