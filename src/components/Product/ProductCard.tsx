@@ -20,7 +20,7 @@ export default function ProductCard({
         />
         <div className='Allproduct-name'>{name}</div>
         <div className='Allproduct-tags'>{tags}</div>
-        <div className='Allproduct-price'>${price}</div>
+        <div className='Allproduct-price'>R{price}</div>
       </div>
     </Link>
   );
