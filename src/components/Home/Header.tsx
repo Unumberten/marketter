@@ -5,7 +5,7 @@ import FeaturedOne from '/public/Featured1.webp';
 import FeaturedTwo from '/public/Featured2.webp';
 import FeaturedThree from '/public/Featured3.webp';
 import FeaturedFour from '/public/Featured4.webp';
-import HeaderImage from '/public/compressed_ba0af3786f70142ca68d5f95d75e8d48.webp';
+import HeaderImage from '/public/feat.webp';
 import { Button, buttonVariants } from '../ui/button';
 import Link from 'next/link';
 export default function Header() {
