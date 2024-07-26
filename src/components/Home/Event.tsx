@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
-import EventOne from '/public/Event1.png';
-import EventTwo from '/public/Event2.webp';
-import EventThree from '/public/Event3.webp';
+import EventOne from '/public/potatoes-young-vegetables-wallpaper-preview.jpg';
+import EventTwo from '/public/vegetable-field-cabbages-vegetables.jpg';
+import EventThree from '/public/hay-bales-hay-straw-bales-straw.jpg';
 
 export default function Event() {
   return (
