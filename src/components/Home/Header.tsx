@@ -15,11 +15,11 @@ export default function Header() {
         <div className='header-content'>
           <div className='header-sale-button'>Sale 70%</div>
           <h1 className='header-main-heading'>
-            An Industrial Take on Streetwear
+            Farmers Market
           </h1>
           <p className='header-main-helper-text'>
-            Anyone can beat you but no one can beat your outfit as long as you
-            wear Dine outfits.
+            Anyone can beat you but no one can beat our prices as long as you
+            buy Dine outfits.
           </p>
           <Link href='/'>
             <Button size='lg'>
