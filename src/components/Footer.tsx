@@ -59,11 +59,11 @@ function Footer() {
         <p>
           Code by.
           <span>
-            <a href='https://github.com/saadfrhan/nextjs-marketplace'>
+            <a href='https://mafihub.co.za'>
               {' '}
-              saadfrhan
+              Mafihub
             </a>{' '}
-            on github
+            on here
           </span>
         </p>
       </div>
