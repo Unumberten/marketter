@@ -31,20 +31,20 @@ export default function Event() {
         <div className='event-banner-right'>
           <div className='event-banner-right-1'>
             <div className='details'>
-              <p>Flex Sweatshirt</p>
+              <p>Cabbage and Potatoes</p>
               <div className='price'>
-                <span>$100.00</span>
-                <span>$75.00</span>
+                <span>R100.00</span>
+                <span>R75.00</span>
               </div>
             </div>
             <Image src={EventTwo} alt='header' height='362' width='282' />
           </div>
           <div className='event-banner-right-2'>
             <div className='details'>
-              <p>Flex Push Button Bomber</p>
+              <p>Hay Baels</p>
               <div className='price'>
-                <span>$225.00</span>
-                <span>$190.00</span>
+                <span>R5o.00</span>
+                <span>R60.00</span>
               </div>
             </div>
             <Image src={EventThree} alt='header' height='368' width='282' />
